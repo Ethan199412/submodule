@@ -1,5 +1,5 @@
 import React from 'react';
 
-function SubComponent() {
+export default function SubComponent() {
     return <div>Sub</div>
 }
