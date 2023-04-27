@@ -1,5 +1,7 @@
 import React from 'react';
 
 export default function SubComponent() {
-    return <div>Sub</div>
+    return <div>
+        SubComponent
+    </div>
 }
