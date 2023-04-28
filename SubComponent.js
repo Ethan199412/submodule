@@ -2,6 +2,6 @@ import React from 'react';
 
 export default function SubComponent() {
     return <div>
-        SubComponent
+        SubComponent123
     </div>
 }
